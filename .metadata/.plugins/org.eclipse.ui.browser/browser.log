@@ -1,0 +1,14 @@
+
+4월 01, 2024 18:08:19.86 NEW SESSION
+4월 01, 2024 18:08:19.86 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 01, 2024 18:11:30.06 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 01, 2024 18:18:48.49 [8108:1492:0401/181848.497:ERROR:interface_endpoint_client.cc(707)] Message 1 rejected by interface blink.mojom.WidgetHost
+4월 01, 2024 18:29:44.95 [8108:1492:0401/182944.956:ERROR:interface_endpoint_client.cc(707)] Message 1 rejected by interface blink.mojom.WidgetHost
+4월 01, 2024 19:07:21.59 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 01, 2024 19:13:20.94 [16748:3396:0401/191320.942:ERROR:interface_endpoint_client.cc(707)] Message 1 rejected by interface blink.mojom.WidgetHost
+4월 01, 2024 19:13:20.94 [16748:3396:0401/191320.942:ERROR:interface_endpoint_client.cc(707)] Message 1 rejected by interface blink.mojom.WidgetHost
+4월 01, 2024 19:44:20.66 [16748:10220:0401/194420.660:ERROR:cert_verify_proc_builtin.cc(878)] CertVerifyProcBuiltin for www.jjhee.com failed:
+4월 01, 2024 19:44:20.66 ----- Certificate i=0 (emailAddress=root@sam,CN=sam,OU=SomeOrganizationalUnit,O=SomeOrganization,L=SomeCity,ST=SomeState,C=--) -----
+4월 01, 2024 19:44:20.66 ERROR: No matching issuer found
+4월 01, 2024 19:44:20.66 
+4월 01, 2024 19:44:20.66 

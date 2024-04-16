@@ -1,0 +1,13 @@
+INDEX VERSION 1.4+D:\kma\protest-master\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+782278012.index
+479335008.index
+3436565247.index
+41971615.index
+2043985719.index
+883062382.index
+1064917795.index
+40354954.index
+1787150486.index
+3427805026.index
+1796447364.index
+836537028.index

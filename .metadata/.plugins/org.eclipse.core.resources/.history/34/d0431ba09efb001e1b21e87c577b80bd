@@ -1,0 +1,23 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<style>
+	#page1 { background-color:#ececec; height:calc(100vh - 110px); }
+</style>
+</head>
+<body>
+<div id="header">
+	<%@ include file="/header.jsp" %>
+</div>
+<div class="contents" > 
+	<section class="page" id="page1"  >
+		<h2>test</h2>
+	</section>
+	</div>
+
+</body>
+</html>
